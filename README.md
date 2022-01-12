@@ -1,2 +1,2 @@
 # optional
-It simulates std::optional in C++
+It is golang optional that simulates std::optional in C++
